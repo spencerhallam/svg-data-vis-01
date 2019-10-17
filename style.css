@@ -1,0 +1,45 @@
+
+  body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: gray;
+  }
+  svg{
+      font-family: Arial, Helvetica, sans-serif;
+      color: white;
+  }
+
+  #all-charts{
+    display: flex;
+    justify-content: space-between;
+  }
+  #svgid{
+    width: 10%;
+  }
+  #svgid text{
+    fill: white;
+    font-size: 12px;
+    
+  }
+  #svgid .cir{
+    stroke-width: 32;
+    fill: red;
+  }
+  
+  #yaya{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border: 1px solid gray;
+    color: gray;
+    padding: 20px;
+    font-size: 20px;
+    margin-bottom: 40px;
+    font-family: sans-serif;
+  }
+  #yaya h1{
+    font-size: 20px;
+    font-weight: 100;
+  }
+  
