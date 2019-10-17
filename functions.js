@@ -128,4 +128,3 @@ const data = [
   
   //babel required
   //reference: https://css-tricks.com/controlling-css-animations-transitions-javascript/
-  
